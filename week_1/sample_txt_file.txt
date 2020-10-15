@@ -1,0 +1,1 @@
+This is a text file. It is to be used for a Python exercise. It has no other purpose. But what a noble purpose it is!

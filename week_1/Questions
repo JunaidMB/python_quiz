@@ -1,0 +1,9 @@
+1. Generate all Prime numbers between 0 and 100
+2. Order the list ['banana', 'apple', 'zebra', 'raspberry'] in alphabetical order
+3. Generate 2 sets of numbers and determine which numbers are common to both sets.
+4. Make a dictionary of people you know with their birthdays. Write a function which takes the names of any two people and return the difference between their birthdays in minutes.
+5. Make a .txt file in your computer, make every odd numbered sentence in uppercase and every even sentence lowercase. Save this via Python as a new text file in the same directory as the old file. 
+6. Given a list of numbers [38, 42, 53, 94, 1, 3, 4, 79] and return an indicator flag list where 1 indicates if the number is even. Answer should be [1, 1, 0, 1, 0, 0, 1, 0].
+7. Count words in a string
+8. Count how many times each value is in a list.
+9. Given a list, return a deduped list while maintaining its order.

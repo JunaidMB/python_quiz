@@ -40,3 +40,5 @@ Q16: Compute the total revenue by customer id and order this grouped table by de
 Q17: For each day list the 2 top spending customer ids
 
 Q18: What is the mean Quantity sold by day?
+
+Q19: Write the df dataframe to a csv file called 'transactions_new.csv'

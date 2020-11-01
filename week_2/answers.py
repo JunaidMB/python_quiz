@@ -62,3 +62,6 @@ daily_spenders.groupby('Date').head(2)
 
 # Q18: What is the mean Quantity sold by day?
 df.groupby(['Date'], as_index = False).agg({'Quantity': 'mean'})
+
+# Q19: Write the df dataframe to a csv file called 'transactions_new.csv'
+df.to_csv('transactions_new.csv')
